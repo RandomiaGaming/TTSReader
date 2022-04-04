@@ -1,0 +1,1 @@
+To speak a peice of text place it into the TTSInput.txt file.

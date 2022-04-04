@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTSReader", "TTSReader.csproj", "{F4BF03FD-6F7E-4E53-871D-ADAEC5C884B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4BF03FD-6F7E-4E53-871D-ADAEC5C884B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BF03FD-6F7E-4E53-871D-ADAEC5C884B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BF03FD-6F7E-4E53-871D-ADAEC5C884B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BF03FD-6F7E-4E53-871D-ADAEC5C884B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB9D5BDF-72F6-4845-91F2-7D5DEC56E037}
+	EndGlobalSection
+EndGlobal

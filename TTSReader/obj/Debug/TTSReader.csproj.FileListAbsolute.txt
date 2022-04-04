@@ -1,0 +1,21 @@
+D:\Windows Apps\TTSReader\bin\Debug\TTSReader.exe.config
+D:\Windows Apps\TTSReader\bin\Debug\TTSReader.exe
+D:\Windows Apps\TTSReader\bin\Debug\TTSReader.pdb
+D:\Windows Apps\TTSReader\obj\Debug\TTSReader.csprojAssemblyReference.cache
+D:\Windows Apps\TTSReader\obj\Debug\TTSReader.csproj.CoreCompileInputs.cache
+D:\Windows Apps\TTSReader\obj\Debug\TTSReader.exe
+D:\Windows Apps\TTSReader\obj\Debug\TTSReader.pdb
+C:\Users\RandomiaGaming\Important Data\Windows Apps\TTSReader\obj\Debug\TTSReader.csprojAssemblyReference.cache
+C:\Users\RandomiaGaming\Important Data\Windows Apps\TTSReader\obj\Debug\TTSReader.csproj.CoreCompileInputs.cache
+C:\Users\RandomiaGaming\Important Data\Windows Apps\TTSReader\obj\Debug\TTSReader.exe
+C:\Users\RandomiaGaming\Important Data\Windows Apps\TTSReader\obj\Debug\TTSReader.pdb
+C:\Users\RandomiaGaming\Important Data\Windows Apps\TTSReader\bin\Debug\TTSReader.exe.config
+C:\Users\RandomiaGaming\Important Data\Windows Apps\TTSReader\bin\Debug\TTSReader.exe
+C:\Users\RandomiaGaming\Important Data\Windows Apps\TTSReader\bin\Debug\TTSReader.pdb
+D:\C# Windows Apps\TTSReader - GIT\TTSReader\bin\Debug\TTSReader.exe.config
+D:\C# Windows Apps\TTSReader - GIT\TTSReader\bin\Debug\TTSReader.exe
+D:\C# Windows Apps\TTSReader - GIT\TTSReader\bin\Debug\TTSReader.pdb
+D:\C# Windows Apps\TTSReader - GIT\TTSReader\obj\Debug\TTSReader.csproj.AssemblyReference.cache
+D:\C# Windows Apps\TTSReader - GIT\TTSReader\obj\Debug\TTSReader.csproj.CoreCompileInputs.cache
+D:\C# Windows Apps\TTSReader - GIT\TTSReader\obj\Debug\TTSReader.exe
+D:\C# Windows Apps\TTSReader - GIT\TTSReader\obj\Debug\TTSReader.pdb
