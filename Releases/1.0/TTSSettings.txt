@@ -1,4 +1,4 @@
 speakerAge = SpeakerAge.Adult;
-speakerSex = SpeakerSex.Neutral;
-speechRate = SpeechRate.Normal;
+speakerSex = SpeakerSex.Female;
+speechRate = SpeechRate.Faster;
 outputType = OutputType.File;
