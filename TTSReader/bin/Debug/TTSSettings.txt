@@ -1,4 +1,0 @@
-speakerAge = SpeakerAge.Adult;
-speakerSex = SpeakerSex.Neutral;
-speechRate = SpeechRate.Normal;
-outputType = OutputType.AudioDevice;
